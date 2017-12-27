@@ -64,3 +64,17 @@ https://zaif.jp/api_keys で発行してください。
 
 MIT
 
+# 不具合・要望について
+
+以下いずれかで
+- github Issue  
+  githubアカウントがあればこちら。
+
+- twitterもしくはzaifチャット  
+  githubアカウントない場合。  
+  ハッシュタグ #zaifexport がついてるものをチェックします。  
+  チェックに確実性はありません。  
+  確実に行いたい場合は、githubアカウント作成してIssue発行してください。  
+
+```
+```
