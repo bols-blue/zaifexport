@@ -42,22 +42,22 @@ https://zaif.jp/api_keys で発行してください。
       --wait-interval SECONDS  API呼び出し制限時の待ち時間 [default: 30.0]
 
     Example:
-      zaifexport eefd3b06-2d6b-4c47-9453-26bf3c0461a8 0c0bae5c-a601-42a0-93ec-f1c4ae285422 spot spot.csv
+      zaifexport 11111111-2222-3333-4444-555555555555 aaaaaaaa-bbbb-cccc-eeee-eeeeeeeeeeee spot spot.csv
 ```
 
 - 現物の取引履歴
 ```
-  zaifexport eefd3b06-2d6b-4c47-9453-26bf3c0461a8 0c0bae5c-a601-42a0-93ec-f1c4ae285422 spot spot.csv
+  zaifexport 11111111-2222-3333-4444-555555555555 aaaaaaaa-bbbb-cccc-eeee-eeeeeeeeeeee spot spot.csv
 ```
 
 - 信用の取引履歴
 ```
-  zaifexport eefd3b06-2d6b-4c47-9453-26bf3c0461a8 0c0bae5c-a601-42a0-93ec-f1c4ae285422 margin margin.csv
+  zaifexport 11111111-2222-3333-4444-555555555555 aaaaaaaa-bbbb-cccc-eeee-eeeeeeeeeeee margin margin.csv
 ```
 
 - 先物の取引履歴
 ```
-  zaifexport eefd3b06-2d6b-4c47-9453-26bf3c0461a8 0c0bae5c-a601-42a0-93ec-f1c4ae285422 future future.csv
+  zaifexport 11111111-2222-3333-4444-555555555555 aaaaaaaa-bbbb-cccc-eeee-eeeeeeeeeeee future future.csv
 ```
 
 # ライセンス
